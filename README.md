@@ -17,10 +17,10 @@ Projet conçu en équipe avec : Victor Deschênes Kaizer Sin
 
 ## Le personnage principal
 
-- Description (physique et psychologique) : ... Calvitie, passionné pas la musique
+- Description (physique et psychologique) : ... Calvitie, passionné pas la musique Il est très arrogant et croit qu'il n'a pas besoin de pratiquer la guitare. Il n'apprécie pas les bassistes
 - Son désir (ce qu'il veut) : ... devenir le meilleur rockstar du monde
 - Son besoin (ce qu'il lui faut) : ... Être le champion de la bataille de bandes
-- Son évolution : ... Il est très arrogant et croit qu'il n'a pas besoin de pratiquer la guitare.
+- Son évolution : ... Joue de la basse et de la guitare.
 
 ## L'univers
 
